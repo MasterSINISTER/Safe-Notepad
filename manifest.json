@@ -1,0 +1,11 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"SINISTER's Note Book",
+    "description":"BETA",
+    "action":{
+        "default_popup":"front.html",
+        "default_icon":"icon.png"
+    }
+    
+}
